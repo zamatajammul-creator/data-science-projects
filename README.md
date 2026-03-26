@@ -1,2 +1,16 @@
-# data-science-projects
-Final Year Computer Science Engineering Student specializing in Data Science. Skilled in Python, SQL, Data Analysis, Machine Learning, and Cloud Computing. I use GitHub to share my projects, practice work, and learning journey in Data Science and Cloud.
+# Mohammed Tajammul Zama
+
+🎓 Final Year CSE (Data Science) Student  
+💻 Skills: Python, SQL, Java, JavaScript  
+☁️ Cloud: AWS / Google Cloud (Learning)  
+📊 Data Analysis | Machine Learning | Data Visualization  
+📁 I upload my Data Science, Cloud, and Python projects here.
+
+## Projects
+- Data Analysis Projects
+- Machine Learning Projects
+- SQL Projects
+- Cloud Projects
+
+## Contact Me
+Email: zamatajammul@gmail.com
